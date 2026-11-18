@@ -1,0 +1,16 @@
+{
+  "tax_year": "2026/27",
+  "class_1_employee": {
+    "lower_earnings_limit_annual": 6708,
+    "primary_threshold_annual": 12570,
+    "upper_earnings_limit_annual": 50270,
+    "main_rate_pct": 8.0,
+    "higher_rate_pct": 2.0
+  },
+  "class_1_employer": {
+    "secondary_threshold_annual": 5000,
+    "rate_pct": 15.0
+  },
+  "source": "HMRC Autumn Budget 2024 / Spring 2026 Statutory Updates",
+  "reference_calculator": "https://takehomepaycalculatoruk.com/national-insurance-calculator/"
+}

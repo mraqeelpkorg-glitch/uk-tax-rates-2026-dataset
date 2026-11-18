@@ -1,0 +1,15 @@
+Jurisdiction,Band Name,Threshold From (GBP),Threshold To (GBP),Tax Rate (%)
+England/Wales/NI,Personal Allowance,0,12570,0.0
+England/Wales/NI,Basic Rate,12571,50270,20.0
+England/Wales/NI,Higher Rate,50271,125140,40.0
+England/Wales/NI,Additional Rate,125141,999999999,45.0
+Scotland,Personal Allowance,0,12570,0.0
+Scotland,Starter Rate,12571,14876,19.0
+Scotland,Basic Rate,14877,26561,20.0
+Scotland,Intermediate Rate,26562,43662,21.0
+Scotland,Higher Rate,43663,75000,42.0
+Scotland,Advanced Rate,75001,125140,45.0
+Scotland,Top Rate,125141,999999999,48.0
+UK-Wide,NI Primary Threshold,0,12570,0.0
+UK-Wide,NI Main Band,12571,50270,8.0
+UK-Wide,NI Upper Band,50271,999999999,2.0

@@ -1,0 +1,38 @@
+{
+  "tax_year": "2026/27",
+  "jurisdiction": "England, Wales and Northern Ireland",
+  "personal_allowance": {
+    "standard_allowance": 12570,
+    "taper_threshold": 100000,
+    "taper_rate": 0.5,
+    "zero_allowance_threshold": 125140
+  },
+  "tax_bands": [
+    {
+      "name": "Personal Allowance",
+      "rate_pct": 0.0,
+      "from_income": 0,
+      "to_income": 12570
+    },
+    {
+      "name": "Basic Rate",
+      "rate_pct": 20.0,
+      "from_income": 12571,
+      "to_income": 50270
+    },
+    {
+      "name": "Higher Rate",
+      "rate_pct": 40.0,
+      "from_income": 50271,
+      "to_income": 125140
+    },
+    {
+      "name": "Additional Rate",
+      "rate_pct": 45.0,
+      "from_income": 125141,
+      "to_income": null
+    }
+  ],
+  "source": "GOV.UK Rates and thresholds for employers 2026 to 2027",
+  "reference_calculator": "https://takehomepaycalculatoruk.com/tax-rates/"
+}

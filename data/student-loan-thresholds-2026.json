@@ -1,0 +1,27 @@
+{
+  "tax_year": "2026/27",
+  "plans": {
+    "Plan 1": {
+      "threshold_annual": 26065,
+      "rate_pct": 9.0
+    },
+    "Plan 2": {
+      "threshold_annual": 28470,
+      "rate_pct": 9.0
+    },
+    "Plan 4": {
+      "threshold_annual": 32745,
+      "rate_pct": 9.0
+    },
+    "Plan 5": {
+      "threshold_annual": 25000,
+      "rate_pct": 9.0
+    },
+    "Postgraduate": {
+      "threshold_annual": 21000,
+      "rate_pct": 6.0
+    }
+  },
+  "source": "Student Loans Company (SLC) & GOV.UK",
+  "reference_calculator": "https://takehomepaycalculatoruk.com/student-loan-calculator/"
+}

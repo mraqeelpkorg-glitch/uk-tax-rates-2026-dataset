@@ -1,0 +1,56 @@
+{
+  "tax_year": "2026/27",
+  "jurisdiction": "Scotland (Scottish Parliament Devolved Tax)",
+  "personal_allowance": {
+    "standard_allowance": 12570,
+    "taper_threshold": 100000,
+    "taper_rate": 0.5,
+    "zero_allowance_threshold": 125140
+  },
+  "tax_bands": [
+    {
+      "name": "Personal Allowance",
+      "rate_pct": 0.0,
+      "from_income": 0,
+      "to_income": 12570
+    },
+    {
+      "name": "Starter Rate",
+      "rate_pct": 19.0,
+      "from_income": 12571,
+      "to_income": 14876
+    },
+    {
+      "name": "Basic Rate",
+      "rate_pct": 20.0,
+      "from_income": 14877,
+      "to_income": 26561
+    },
+    {
+      "name": "Intermediate Rate",
+      "rate_pct": 21.0,
+      "from_income": 26562,
+      "to_income": 43662
+    },
+    {
+      "name": "Higher Rate",
+      "rate_pct": 42.0,
+      "from_income": 43663,
+      "to_income": 75000
+    },
+    {
+      "name": "Advanced Rate",
+      "rate_pct": 45.0,
+      "from_income": 75001,
+      "to_income": 125140
+    },
+    {
+      "name": "Top Rate",
+      "rate_pct": 48.0,
+      "from_income": 125141,
+      "to_income": null
+    }
+  ],
+  "source": "Scottish Budget and GOV.UK 2026/27",
+  "reference_calculator": "https://takehomepaycalculatoruk.com/scotland/take-home-pay-calculator/"
+}
